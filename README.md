@@ -53,6 +53,7 @@ This repository is set up with:
 * Clerk (authentication)
 * React Query (data fetching)
 * Tailwind CSS (styling)
+* ShadCN UI (UI components)
 * Vercel (deployment)
 
 ---
