@@ -1,4 +1,4 @@
-<p align="center"><img src="/logo.png" alt="ProtectMyDesign logo" width="220"/></p>
+<p align="center"><img src="/public/logo.png" alt="ProtectMyDesign logo" width="220"/></p>
 
 # ProtectMyDesign
 
